@@ -19,6 +19,7 @@ Like most other World of Warcraft Weakauras, my mod is hosted on **[this Wago.io
 This clip on YouTube shows the WeakAura's chat bubble functionality:
 
 *[![(YouTube thumbnail screenshot, click to open on YouTube.)](https://img.youtube.com/vi/JSiVJAfD0WQ/0.jpg)](https://www.youtube.com/watch?v=JSiVJAfD0WQ)*
+
 *(YouTube thumbnail screenshot, click to open video clip on YouTube.)*
 
 If you are unfamiliar with World of Warcraft, this is what I want you to pay attention to:
