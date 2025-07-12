@@ -10,7 +10,7 @@ My popular Weakaura dungeon mod for World of Warcraft, currently sitting at:
 - 1200 downloads
 - 200 stars
 
-**[See it's Wago.io page for more details](https://wago.io/6CDe7U7t6)**.
+**[See it's Wago.io page for more details.](https://wago.io/6CDe7U7t6)**
 
 Development notes, community engagement and help with technical issues only happens on Wago.io.
 
