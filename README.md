@@ -1,5 +1,5 @@
 
-# /say Callouts M+ TWW S2 (by BudoBoy07)
+# /say Callouts M+ (by BudoBoy07)
 
 My popular Weakaura dungeon mod for World of Warcraft, currently sitting at 12.000 views, 1100 downloads and 150 stars. **[See it's Wago.io page for more details.](https://wago.io/6CDe7U7t6)**.
 
