@@ -24,6 +24,7 @@ Notice how my character at 0:02 says Swirls and at 0:11 my character says Traps.
 These warnings happen 1-2 seconds before the harmful swirlie effects on the ground, which is obviously helpful.
 
 *[![(YouTube thumbnail screenshot, click to open on YouTube.)](https://img.youtube.com/vi/JSiVJAfD0WQ/0.jpg)](https://www.youtube.com/watch?v=JSiVJAfD0WQ)*
+*(YouTube thumbnail screenshot, click to open video clip on YouTube.)*
 
 ---
 
