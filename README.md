@@ -17,13 +17,13 @@ Like most other World of Warcraft Weakauras, my mod is hosted on **[this Wago.io
 ### Showcase
 
 This clip on YouTube shows the WeakAura's chat bubble functionality:
-
 [WeakAura M+ Callouts](https://www.youtube.com/watch?v=JSiVJAfD0WQ)
-*(Click to open on YouTube)*
 
 If you are unfamiliar with World of Warcraft, this is what I want you to pay attention to:
 Notice how my character at 0:02 says Swirls and at 0:11 my character says Traps.
 These warnings happen 1-2 seconds before the harmful swirlie effects on the ground, which is obviously helpful.
+
+*[![(YouTube thumbnail screenshot, click to open on YouTube.)](https://img.youtube.com/vi/JSiVJAfD0WQ/0.jpg)](https://www.youtube.com/watch?v=JSiVJAfD0WQ)*
 
 ---
 
