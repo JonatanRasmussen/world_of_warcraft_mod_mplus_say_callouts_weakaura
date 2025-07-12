@@ -1,7 +1,10 @@
 
 # /say Callouts M+ TWW S2 (by BudoBoy07)
 
-My popular Weakaura dungeon mod for World of Warcraft, currently sitting at 12.000 views, 1100 downloads and 150 stars. **[See it's Wago.io page for more details.](https://wago.io/6CDe7U7t6)**. This Github page was created to show off my work – development and community engagement only happens on the mods Wago.io page.
+My popular Weakaura dungeon mod for World of Warcraft, currently sitting at 12.000 views, 1100 downloads and 150 stars. **[See it's Wago.io page for more details.](https://wago.io/6CDe7U7t6)**.
+
+This Github page was created to show off my work... 😛
+Development and community engagement only happens on the mods Wago.io page.
 
 ---
 
