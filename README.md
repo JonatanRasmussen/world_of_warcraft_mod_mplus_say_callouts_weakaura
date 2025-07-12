@@ -9,7 +9,7 @@ Development and community engagement only happens on the mods Wago.io page.
 
 ---
 
-### Website (import link)
+### Website (link to Wago.io)
 
 Like most other World of Warcraft Weakauras, my mod is hosted on **[this Wago.io page](https://wago.io/6CDe7U7t6)**.
 
