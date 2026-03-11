@@ -6,9 +6,9 @@
 ### Highlights
 
 My popular Weakaura dungeon mod for World of Warcraft, currently sitting at:
-- 19.000 views
-- 1200 downloads
-- 200 stars
+- 24.000 views
+- 1300 downloads
+- 220 stars
 
 **[See it's Wago.io page for more details.](https://wago.io/6CDe7U7t6)**
 
