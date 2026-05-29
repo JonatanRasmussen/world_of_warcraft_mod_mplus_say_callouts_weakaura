@@ -12,9 +12,9 @@ My popular Weakaura dungeon mod for World of Warcraft, currently sitting at:
 
 **[See it's Wago.io page for more details.](https://wago.io/6CDe7U7t6)**
 
-Development notes, community engagement and help with technical issues only happens on Wago.io.
+This Github page was created to show off my work... 😛 It is not where people go to download the mod.
 
-This Github page was created to show off my work... 😛
+Releases, development notes, community engagement and troubleshooting only happens on Wago.io.
 
 ---
 
