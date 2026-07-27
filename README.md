@@ -5,16 +5,20 @@
 
 ### Highlights
 
-My popular Weakaura dungeon mod for World of Warcraft, currently sitting at:
+My popular Weakaura dungeon mod for World of Warcraft, officially sitting at:
 - 24.000 views
 - 1300 downloads
 - 220 stars
 
-**[See it's Wago.io page for more details.](https://wago.io/6CDe7U7t6)**
+These numbers are misleading however, as they only include views and downloads from the wago.io website.
+Most players get their WeakAuras from friends or raid leaders via untracked peer-to-peer downloads in-game.
+For all public WeakAuras (including mine), the "real" number of users is therefore estimated to be 5-20 times larger.
 
 This Github page was created to show off my work... 😛 It is not where people go to download the mod.
 
 Releases, development notes, community engagement and troubleshooting only happens on Wago.io.
+
+**[See my Wago.io page for more details.](https://wago.io/6CDe7U7t6)**
 
 ---
 
