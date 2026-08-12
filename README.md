@@ -11,8 +11,6 @@ It uses event-driven logic to parse out dangerous spell casts from the combat lo
 
 This project was created via the WeakAura-framework (I used the in-game editor to generate Lua-code, so there's not much code to show here on GitHub). I did however have python code to test and validate the data I gathered in-game; this was done by cross-referencing my data with spell tables I scraped from the Wowhead website. These test- and scraping files are part of a separate repository: [LINK](https://github.com/JonatanRasmussen/wow_mythicplus_say).
 
-**[See my Wago.io page for more details.](https://wago.io/6CDe7U7t6)**
-
 ---
 
 ### Website (link to Wago.io)
