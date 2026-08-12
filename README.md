@@ -5,11 +5,11 @@
 
 ### Highlights
 
-This is an interface mod that I developed for the WoW community and it ended up becoming quite popular (24.000 views / 1300+ downloads / 220 stars via the wago.io website, and an estimated 10.000+ additional in-game downloads via peer-to-peer WeakAura-sharing.)
+This is an interface mod I developed for the WoW community and it ended up becoming quite popular (24.000 views / 1300+ downloads / 220 stars via the wago.io website, and an estimated 10.000+ additional in-game downloads via peer-to-peer WeakAura-sharing).
 
-It uses event-driven logic to parse the combat log, looking for spell_ids that I considered dangerous for the given M+ season. I manually configured spell casting logic for 100+ new spell_ids for every content patch (twice per year), this included going into each new dungeon and manually recording the spell cast patterns of enemies (channeled/instant casts, duration, frequency, NPC-ID, etc.). To optimize for performance, I configured load-conditions for each dungeon to limit CPU-use.
-I did for all 6 major game patches from 2023-2025 (DF season 2-4, TWW season 1-3), **[see my Wago.io page for more details.](https://wago.io/6CDe7U7t6)**.
-This project was created via the WeakAura-framework (I used the in-game editor to generate Lua-code, so there's not much code to show here on GitHub). I did however have python code to test and validate the spell casting data I recorded in-game by cross-referencing it with public spell data on the Wowhead website, but that is in a separate repository: [LINK](https://github.com/JonatanRasmussen/wow_mythicplus_say).
+It uses event-driven logic to parse out dangerous spell casts from the combat log. I manually configured spell casting logic for 100+ spell_ids, and I did this for all 6 major game patches from 2023-2025 (DF season 2-4, TWW season 1-3), **[see my Wago.io page for more details](https://wago.io/6CDe7U7t6)**. This process included signing up for the beta or public test realm where I entered each upcoming dungeon to manually record the spell cast patterns of enemies (channeled/instant casts, duration, frequency, NPC-ID, etc.). To optimize for performance, I configured load-conditions based on zone_id and cast type in order to limit CPU-use.
+
+This project was created via the WeakAura-framework (I used the in-game editor to generate Lua-code, so there's not much code to show here on GitHub). I did however have python code to test and validate the data I gathered in-game; this was done by cross-referencing my data with spell tables I scraped from the Wowhead website. These test- and scraping files are part of a separate repository: [LINK](https://github.com/JonatanRasmussen/wow_mythicplus_say).
 
 **[See my Wago.io page for more details.](https://wago.io/6CDe7U7t6)**
 
