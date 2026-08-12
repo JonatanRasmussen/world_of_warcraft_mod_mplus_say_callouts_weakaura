@@ -5,18 +5,11 @@
 
 ### Highlights
 
-My popular Weakaura dungeon mod for World of Warcraft, officially sitting at:
-- 24.000 views
-- 1300 downloads
-- 220 stars
+This is an interface mod that I developed for the WoW community and it ended up becoming quite popular (24.000 views / 1300+ downloads / 220 stars via the wago.io website, and an estimated 10.000+ additional in-game downloads via peer-to-peer WeakAura-sharing.)
 
-These numbers are misleading however, as they only include views and downloads from the wago.io website.
-Most players get their WeakAuras from friends or raid leaders via untracked peer-to-peer downloads in-game.
-For all public WeakAuras (including mine), the "real" number of users is therefore estimated to be 5-20 times larger.
-
-This Github page was created to show off my work... 😛 It is not where people go to download the mod.
-
-Releases, development notes, community engagement and troubleshooting only happens on Wago.io.
+It uses event-driven logic to parse the combat log, looking for spell_ids that I considered dangerous for the given M+ season. I manually configured spell casting logic for 100+ new spell_ids for every content patch (twice per year), this included going into each new dungeon and manually recording the spell cast patterns of enemies (channeled/instant casts, duration, frequency, NPC-ID, etc.). To optimize for performance, I configured load-conditions for each dungeon to limit CPU-use.
+I did for all 6 major game patches from 2023-2025 (DF season 2-4, TWW season 1-3), **[see my Wago.io page for more details.](https://wago.io/6CDe7U7t6)**.
+This project was created via the WeakAura-framework (I used the in-game editor to generate Lua-code, so there's not much code to show here on GitHub). I did however have python code to test and validate the spell casting data I recorded in-game by cross-referencing it with public spell data on the Wowhead website, but that is in a separate repository [LINK]().
 
 **[See my Wago.io page for more details.](https://wago.io/6CDe7U7t6)**
 
