@@ -21,15 +21,16 @@ Like most other World of Warcraft Weakauras, my mod is hosted on **[this Wago.io
 
 ### Showcase
 
-This clip on YouTube shows the WeakAura's chat bubble functionality:
+This clip on YouTube shows the chat bubble functionality:
 
 *[![(YouTube thumbnail screenshot, click to open on YouTube.)](https://img.youtube.com/vi/JSiVJAfD0WQ/0.jpg)](https://www.youtube.com/watch?v=JSiVJAfD0WQ)*
 
 *(YouTube thumbnail screenshot, click to open video clip on YouTube.)*
 
-If you are unfamiliar with World of Warcraft, this is what I want you to pay attention to:
+If you are unfamiliar with World of Warcraft, this is what you should pay attention to:
 Notice how my character at 0:02 says Swirls and at 0:11 my character says Traps.
-These warnings happen 1-2 seconds before the harmful swirlie effects on the ground, which is obviously helpful.
+These warnings happen 1-2 seconds before the harmful swirlie effects on the ground, which is how my interface addon provides value.
+Reading these cast events are supported as part of the in-game client's API, *and it is NOT a game cheat / hack*.
 
 ---
 
