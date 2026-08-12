@@ -36,7 +36,7 @@ Reading these cast events are supported as part of the in-game client's API, *an
 
 ### Features
 
-It uses the WeakAura framework to automatically scan the combat_event_log for dangerous events. For each of its spell id configurations, it then creates a chat bubbles above your head when dangerous events and casts happen, warning you and your party members about important enemy abilities in World of Warcraft's Mythic+ dungeons.
+It uses the WeakAura framework to automatically scan the combat log for dangerous events. For each of its spell id configurations, it then creates a chat bubbles above your head when dangerous events and casts happen, warning you and your party members about important enemy abilities in World of Warcraft's Mythic+ dungeons.
 
 Other Weakaura packs do a similar thing. However, this is an independant work, and I believe my package is pupular due to the increased focus on user experience. My weakaura creates chat bubbles instead of icons or sound alerts, and it is only triggered on the most dangerous abilities (I manually configure this for each dungeon). Also, each message is very short (only 1 or 2 words) and they are wrapped with raid markers, like this:
 {cross} Dodge {cross}, {skull} Totem {skull}. These raid markers are displayed as a Skull or a Red X in-game, making them easy to parse visually in the middle of combat.
